@@ -16,23 +16,23 @@ const Page = () => {
   topic = "Neural Network of the Brain"
   subject ="science"
   duration= {43}
-  color = "#ffda6e"
+  color = "#E5D0FF"
 ></CompanionCard>
 <CompanionCard
   id  = "123"
-  name="neura the brainy exlorer"
-  topic = "Neural Network of the Brain"
-  subject ="science"
-  duration= {43}
-  color = "#ffda6e"
+  name="Countsy the Number Wizard"
+  topic = "Derivatives & Integrals"
+  subject ="Maths"
+  duration= {30}
+  color = "#FFDA6E"
 ></CompanionCard>
 <CompanionCard
   id  = "123"
-  name="neura the brainy exlorer"
-  topic = "Neural Network of the Brain"
-  subject ="science"
-  duration= {43}
-  color = "#ffda6e"
+  name="Verba the Vocabulary Builder"
+  topic = "English Literature"
+  subject ="Language"
+  duration= {30}
+  color = "#BDE7FF"
 ></CompanionCard>
       </section>
 
