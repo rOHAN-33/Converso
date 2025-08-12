@@ -6,6 +6,7 @@ const CompanionsLibrary = () => {
         Companions page
     </div>
   )
+  
 }
 
 export default CompanionsLibrary
